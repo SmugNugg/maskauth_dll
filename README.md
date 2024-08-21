@@ -1,5 +1,5 @@
 Tools needed:
-  VMProtect -> its load on start for our authswap dll
+  VMProtect (https://www.mediafire.com/file/z3gk3ue3oiacyzg/VMProtect_v3.8.4.zip/file) -> its load on start for our authswap dll 
   cracked program -> target authswap program
 
 So lets say you cracked a program and you want to auth swap it for your benefits
