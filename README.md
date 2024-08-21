@@ -23,3 +23,6 @@ HOW? ->
 
 SECURITY ->
   1. Since latest vmp abuses memory exploits a cracker should not be able to crack this UNLESS they somehow "crack" vmprotect
+
+## showcase
+https://streamable.com/9i177t
